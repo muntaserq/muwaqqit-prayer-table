@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "module": "NodeNext",
+        "moduleResolution": "nodenext",
+        "target": "ES2022",
+        "sourceMap": true,
+        "resolveJsonModule": true,
+        "outDir": "dist",
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
