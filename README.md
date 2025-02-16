@@ -35,9 +35,9 @@ The script requires configuration parameters for location and calculation settin
 
 ```json
 {
-    "lt": "41.878725",
-    "ln": "-87.635797",
-    "tz": "America/Chicago",
+    "lt": "40.785432963207434",
+    "ln": "-73.948526950877",
+    "tz": "America/New_York",
     "diptype": "apparent",
     "ea": -15.0,
     "eh": 211,
