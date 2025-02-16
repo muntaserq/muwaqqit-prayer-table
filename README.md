@@ -21,8 +21,8 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repository/prayer-times-generator.git
-   cd prayer-times-generator
+   git clone https://github.com/muntaserq/muwaqqit-prayer-table.git
+   cd muwaqqit-prayer-table
    ```
 2. Install dependencies:
    ```sh
@@ -86,7 +86,7 @@ By default, the script is set to generate prayer times for:
 
 ```js
 const startDate = "2025-02-17";
-const endDate = "2025-03-30";
+const endDate = "2025-03-31";
 ```
 
 You can modify these values in `index.ts` before running the script.
@@ -131,12 +131,8 @@ This project is licensed under the [Creative Commons Attribution License](https:
 
 ## Contributing
 
-If you’d like to contribute, please fork the repository and submit a pull request with your changes.
+If you’d like to contribute, fork the repository and submit a pull request with your changes.
 
 ## Contact
 
-For support or questions, open an issue on GitHub or contact the project maintainer.
-
----
-Happy coding! 😊
-
+For support or questions, open an issue on GitHub or contact muntaserq.
